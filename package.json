@@ -1,0 +1,16 @@
+{
+  "name": "easy-promise-async-await",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node . -n"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.4.1"
+  }
+}
