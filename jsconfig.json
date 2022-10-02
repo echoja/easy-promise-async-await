@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "resolveJsonModule": true,
+    "moduleResolution": "Node",
+    "skipLibCheck": true,
+    "target": "ESNext",
+    "module": "ESNext"
+  }
+}

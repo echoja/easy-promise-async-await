@@ -10,4 +10,4 @@ const options = program.opts();
 
 /** @type {string} */
 const number = options.number;
-execSync(`node ./src/${number}.js`, { stdio: "inherit" });
+execSync(`node ./src/${number}.mjs`, { stdio: "inherit" });
