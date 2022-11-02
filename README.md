@@ -1,6 +1,6 @@
-# easy-promise-async-await
+# [Javascript] 비동기, Promise, async, await 확실하게 이해하기
 
-블로그 주소 추가 예정
+<https://springfall.cc/post/7>
 
 ## 프로젝트 세팅
 
