@@ -1,6 +1,6 @@
 # [Javascript] 비동기, Promise, async, await 확실하게 이해하기
 
-<https://springfall.cc/post/7>
+<https://springfall.cc/article/2022-11/easy-promise-async-await>
 
 ## 프로젝트 세팅
 
