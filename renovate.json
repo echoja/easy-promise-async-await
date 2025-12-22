@@ -1,6 +1,10 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["config:base", "group:all", "schedule:earlyMondays"],
+  "extends": [
+    "config:recommended",
+    "group:all",
+    "schedule:earlyMondays"
+  ],
   "rangeStrategy": "bump",
   "prHourlyLimit": 0,
   "prConcurrentLimit": 0,
