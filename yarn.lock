@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"commander@^12.0.0":
-  "integrity" "sha512-MwVNWlYjDTtOjX5PiD7o5pK0UrFU/OYgcJfjjK4RaHZETNtjJqrZa9Y9ds88+A+f+d5lv+561eZ+yCKoS3gbAA=="
-  "resolved" "https://registry.npmjs.org/commander/-/commander-12.0.0.tgz"
-  "version" "12.0.0"
+"commander@^14.0.2":
+  "integrity" "sha512-TywoWNNRbhoD0BXs1P3ZEScW8W5iKrnbithIl0YH+uCmBd0QpPOA8yc82DS3BIE5Ma6FnBVUsJ7wVUDz4dvOWQ=="
+  "resolved" "https://registry.npmjs.org/commander/-/commander-14.0.2.tgz"
+  "version" "14.0.2"
